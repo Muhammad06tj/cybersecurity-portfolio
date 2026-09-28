@@ -21,8 +21,7 @@ Python projects focused on cybersecurity concepts.
 | 13 | SQL Injection Scanner | Automated SQLi testing |
 | 14 | Password Manager | Encrypted password storage |
 | 15 | Port Scanner Advanced | Multithreaded scanner with service detection |
-| 16 | Wireshark Investigation | Network traffic analysis |
-| 17 | JWT Tool | JWT creation and verification |
+| 16 | JWT Tool | JWT creation and verification |
 
 ## Stack
 - Python 3
