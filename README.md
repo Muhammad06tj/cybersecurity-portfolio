@@ -5,7 +5,7 @@ Python projects focused on cybersecurity concepts.
 ## Projects
 
 | # | Project | Description |
-|---|---------|-------------|
+|---|---|---|
 | 01 | Password Checker | Analyzes password strength |
 | 02 | Caesar Cipher | Classic encryption algorithm |
 | 03 | URL Analyzer | Phishing URL detection |
@@ -22,8 +22,12 @@ Python projects focused on cybersecurity concepts.
 | 14 | Password Manager | Encrypted password storage |
 | 15 | Port Scanner Advanced | Multithreaded scanner with service detection |
 | 16 | JWT Tool | JWT creation and verification |
+| 17 | REST API | Flask REST API with API key authentication |
+| 18 | Canary Token | Web tripwire logger for intrusion detection |
+| 19 | Phishing Analyzer | Text and URL phishing detection tool |
 
 ## Stack
-- Python 3
-- Kali Linux
-- Wireshark
+
+* Python 3
+* Kali Linux
+* Wireshark
