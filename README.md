@@ -25,6 +25,7 @@ Python projects focused on cybersecurity concepts.
 | 17 | REST API | Flask REST API with API key authentication |
 | 18 | Canary Token | Web tripwire logger for intrusion detection |
 | 19 | Phishing Analyzer | Text and URL phishing detection tool |
+| 20 | Phishing Email Headers Analyzer | Email header analysis for phishing detection |
 
 ## Stack
 
