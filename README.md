@@ -26,6 +26,9 @@ Python projects focused on cybersecurity concepts.
 | 18 | Canary Token | Web tripwire logger for intrusion detection |
 | 19 | Phishing Analyzer | Text and URL phishing detection tool |
 | 20 | Phishing Email Headers Analyzer | Email header analysis for phishing detection |
+| 21 | WAF | Web Application Firewall with request filtering|
+| 22 | Brute-Force Protection|
+| 23 | Incident Report Writeup | Automated incident report generato |
 
 ## Stack
 
